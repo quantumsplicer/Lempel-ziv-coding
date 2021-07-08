@@ -5,7 +5,7 @@ Clone the repository and navigate into the folder
 
 ```
 git clone https://github.com/quantumsplicer/Lempel-ziv-coding.git
-cd Lempel-ziv coding
+cd Lempel-ziv-coding
 ```
 
 ## Compression
